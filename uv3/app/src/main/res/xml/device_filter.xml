@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<usb>
+    <usb-device class="239" subclass="2" />
+    <usb-device product-id="12290" vendor-id="7025" />
+    <usb-device product-id="0x00000408" vendor-id="0x000005E1" />
+    <usb-device product-id="0x00002861" vendor-id="0x0000EB1A" />
+    <usb-device product-id="0x00000007" vendor-id="0x00001C88" />
+    <usb-device product-id="0x0000003C" vendor-id="0x00001C88" />
+</usb>
